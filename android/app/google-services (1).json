@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262237697642",
+    "project_id": "cat-sitter-93a93",
+    "storage_bucket": "cat-sitter-93a93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262237697642:android:37078187fb22b29c04bc13",
+        "android_client_info": {
+          "package_name": "com.example.pjc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjy6lU2y0JfaOMkBs8ojHjx4Baoby5Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
